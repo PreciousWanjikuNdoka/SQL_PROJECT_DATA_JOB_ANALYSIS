@@ -276,3 +276,4 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanceed my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring  data analyst can beter position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adaptation to emerging trends in the field of data analytics.
+
